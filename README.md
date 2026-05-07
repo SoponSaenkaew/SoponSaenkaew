@@ -15,7 +15,7 @@
 
 **Frameworks & Other Tools:**
 - **Backend:** Laravel, Go (Gin/Fiber)
-- **Frontend:** React.js, WebGPU
+- **Frontend:** React.js, WebGPU, Next.js
 - **Infrastructure:** Docker (Flexible based on project needs)
 
 ---
