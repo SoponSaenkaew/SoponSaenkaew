@@ -2,7 +2,7 @@
 
 ### 🎓 About Me
 - **Education:** Computer Engineering student at **RMUTI Khon Kaen** 🏫
-- **Focus:** IoT Systems, Web Technologies, and High-Performance Optimization
+- **Focus:** Web Technologies, and High-Performance Optimization
 - **Current Interest:** Exploring the world of **WebGPU**, Computer Graphics, and Game Development 🎮
 
 ---
@@ -22,15 +22,11 @@
 - **Backend:** `Laravel` (PHP), `Go (Gin)`
 - **Frontend & Graphics:** `React.js`, `Next.js`, **`WebGPU (WGSL)`**, `Three.js` / `Babylon.js` (ถ้ามีแพลนจะใช้)
 - **DevOps & Infrastructure:** `Docker` (Containerization), `Git` / `GitHub Actions` (CI/CD)
-- **Hardware & IoT:** `ESP32-S3`, `FreeRTOS`, `UART/I2C/SPI`, **`FMCW Radar Processing (24GHz/60GHz)`** 📡
 
 ---
 
 ### 🚀 Featured Projects
 
-* **Fall Detection IoT System** 🏥 📡
-    * *Hardware & Embedded System*
-    * ระบบตรวจจับการล้มอัจฉริยะแบบ Real-time โดยใช้บอร์ดประมวลผล **ESP32-S3** ร่วมกับเซนเซอร์เรดาร์คู่ประสิทธิภาพสูง **HLK-LD2450 (24GHz 2D Tracking)** และ **HLK-LD6002C (60GHz Fall Detection)** มีการจัดการระบบพลังงานแบบ Multi-stage (LM2596 Buck & AMS1117 LDO) เพื่อความเสถียรของสัญญาณความถี่สูง สื่อสารข้อมูลผ่านโปรโตคอลซีเรียลที่ความเร็วสูง (Baud rate สูงสุด 256,000)
 * **Mini Forum** 💬
     * *Full-Stack Web Application*
     * เว็บบอร์ดสำหรับการพูดคุยและแลกเปลี่ยนความคิดเห็น พัฒนาด้วยโครงสร้างแบบ Modern Web (ระบุ Tech Stack ที่ใช้ เช่น React + Go/Laravel) ปลอดภัยและรองรับการขยายตัวได้ดี
