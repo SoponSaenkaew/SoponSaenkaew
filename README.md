@@ -19,6 +19,21 @@
 </p>
 
 **Frameworks, Libraries & Hardware Tools:**
+<p align="left">
+  <!-- Frontend / Graphics -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/WebGPU-0F172A?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebGPU" />
+  <img src="https://img.shields.io/badge/Three.js-1E1E1E?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Babylon.js-5A4FCF?style=for-the-badge&logo=babylon.js&logoColor=white" alt="Babylon.js" />
+  
+  <!-- Backend / DevOps -->
+  <img src="https://img.shields.io/badge/Laravel-F9532B?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Go_(Gin)-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go (Gin)" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
+
 - **Backend:** `Laravel` (PHP), `Go (Gin)`
 - **Frontend & Graphics:** `React.js`, `Next.js`, **`WebGPU (WGSL)`**, `Three.js` / `Babylon.js` (ถ้ามีแพลนจะใช้)
 - **DevOps & Infrastructure:** `Docker` (Containerization), `Git` / `GitHub Actions` (CI/CD)
@@ -29,10 +44,10 @@
 
 * **Mini Forum** 💬
     * *Full-Stack Web Application*
-    * เว็บบอร์ดสำหรับการพูดคุยและแลกเปลี่ยนความคิดเห็น พัฒนาด้วยโครงสร้างแบบ Modern Web (ระบุ Tech Stack ที่ใช้ เช่น React + Go/Laravel) ปลอดภัยและรองรับการขยายตัวได้ดี
+    * เว็บบอร์ดสำหรับการพูดคุยและแลกเปลี่ยนความคิดเห็น พัฒนาด้วยโครงสร้�[...] 
 * **WebGPU Research & Optimization** ⚡ 🎮
     * *Graphics & High-Performance Computing*
-    * โปรเจกต์วิจัยและทดลองประสิทธิภาพกราฟิกรวมถึงการคำนวณขั้นสูงบนเว็บเบราว์เซอร์ยุคใหม่ด้วย **WebGPU API (WGSL)** มุ่งเน้นการรีดประสิทธิภาพการประมวลผลผ่านชิปการ์ดจอ (GPU Compute Shaders) และการทำสถาปัตยกรรมกราฟิกที่มี Overhead ต่ำ
+    * โปรเจกต์วิจัยและทดลองประสิทธิภาพกราฟิกรวมถึงการคำนวณขั้นสูงบนเว็��[...]
 
 ---
 
@@ -46,7 +61,7 @@
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SoponSaenkaew&show_icons=true&theme=tokyonight" alt="Sopon's GitHub Stats" height="180" />
-  <img src="https://github-readme-top-langs.vercel.add/api/?username=SoponSaenkaew&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SoponSaenkaew&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
 ---
